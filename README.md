@@ -31,6 +31,6 @@ Tipo	Monómero (Unidad Base)	Función Principal
 3. Proteínas	Aminoácidos	Son las moléculas más diversas: estructurales (colágeno), catalizadoras (enzimas), de defensa (anticuerpos) y de transporte (hemoglobina).
 4. Ácidos Nucleicos	Nucleótidos	Almacenan y transmiten la información genética (ADN y ARN). El ADN contiene las instrucciones para la síntesis de proteínas.
 
-5. <img width="685" height="513" alt="image" src="https://github.com/user-attachments/assets/5a5cebf6-836e-4526-bddc-af2e92574250" />
+ <img width="685" height="513" alt="image" src="https://github.com/user-attachments/assets/5a5cebf6-836e-4526-bddc-af2e92574250" />
 
 
